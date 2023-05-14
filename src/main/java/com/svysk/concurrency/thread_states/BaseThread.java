@@ -1,4 +1,4 @@
-package com.svysk.concurrency;
+package com.svysk.concurrency.thread_states;
 
 public class BaseThread implements Runnable {
 

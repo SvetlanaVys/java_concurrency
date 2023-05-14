@@ -1,5 +1,8 @@
 package com.svysk.concurrency;
 
+import com.svysk.concurrency.thread_states.BaseThread;
+import com.svysk.concurrency.thread_states.WaitingThread;
+import com.svysk.concurrency.thread_states.WaitingThreadState;
 import org.junit.jupiter.api.Test;
 
 import java.util.concurrent.ExecutionException;
